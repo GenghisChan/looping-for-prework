@@ -4,3 +4,4 @@ def using_for
 	for cast in checklist
 		puts "Wingardium Leviosa"
 end
+end
